@@ -1,0 +1,39 @@
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\bin\Debug\Knijniymagazin.exe.config
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\bin\Debug\Knijniymagazin.exe
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\bin\Debug\Knijniymagazin.pdb
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\obj\Debug\Knijniymagazin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\obj\Debug\Knijniymagazin.Properties.Resources.resources
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\obj\Debug\Knijniymagazin.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\obj\Debug\Knijniymagazin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\obj\Debug\Knijniymagazin.exe
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\obj\Debug\Knijniymagazin.pdb
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\obj\Debug\Knijniymagazin.СкладКниги.resources
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\obj\Debug\Knijniymagazin.Поступление.resources
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\obj\Debug\Knijniymagazin.Авторизация.resources
+C:\Users\User\Desktop\Учеба\Тумашова\Knijniymagazin\Knijniymagazin\obj\Debug\Knijniymagazin.Продажа.resources
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\bin\Debug\Knijniymagazin.exe.config
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\bin\Debug\Knijniymagazin.exe
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\bin\Debug\Knijniymagazin.pdb
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\obj\Debug\Knijniymagazin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\obj\Debug\Knijniymagazin.Авторизация.resources
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\obj\Debug\Knijniymagazin.Продажа.resources
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\obj\Debug\Knijniymagazin.СкладКниги.resources
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\obj\Debug\Knijniymagazin.Properties.Resources.resources
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\obj\Debug\Knijniymagazin.Поступление.resources
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\obj\Debug\Knijniymagazin.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\obj\Debug\Knijniymagazin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\obj\Debug\Knijniymagazin.exe
+C:\Users\User\Desktop\Учебная практика\1\Knijniymagazin\obj\Debug\Knijniymagazin.pdb
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\bin\Debug\Knijniymagazin.exe.config
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\bin\Debug\Knijniymagazin.exe
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\bin\Debug\Knijniymagazin.pdb
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\obj\Debug\Knijniymagazin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\obj\Debug\Knijniymagazin.Авторизация.resources
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\obj\Debug\Knijniymagazin.Продажа.resources
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\obj\Debug\Knijniymagazin.СкладКниги.resources
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\obj\Debug\Knijniymagazin.Properties.Resources.resources
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\obj\Debug\Knijniymagazin.Поступление.resources
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\obj\Debug\Knijniymagazin.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\obj\Debug\Knijniymagazin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\obj\Debug\Knijniymagazin.exe
+C:\Users\User\Desktop\Учебная практика\1+\Knijniymagazin\obj\Debug\Knijniymagazin.pdb
