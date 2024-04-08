@@ -24,3 +24,4 @@ switch(day){
     default: cout<<"Воскресенье"<<endl; 
         }
 }
+//https://vk.com/doc412345298_669566648?hash=Pz5ab3IjCgaoIpsi9mIp8u2PnEZzVBv3fKTlcPq7pS4&dl=DfZLvL6ZRPeFeOJnhLQ3tUWEZzn5GtC01o0NKGo8Tng&api=1&no_preview=1
